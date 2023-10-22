@@ -56,7 +56,7 @@ class Program
             deposit += monthlyIncrease;
             months++;
         }
-        Console.WriteLine("б) Размер вклада превысит 1200 руб. через " + months + " месяцев");
+        Console.WriteLine("б) Размер вклада превысит 120000000000000 руб. через " + months + " месяцев");
 
         Console.ReadLine();
 
